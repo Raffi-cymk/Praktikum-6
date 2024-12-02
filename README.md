@@ -1,5 +1,7 @@
 # Praktikum-6
 
+![](<Program Manajemen Nilai.png>)
+
 # List untuk menyimpan data mahasiswa
 mahasiswa = []
 
