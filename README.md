@@ -1,6 +1,6 @@
 # Praktikum-6
 
-![](<Program Manajemen Nilai.png>)
+![](<Program Manajemen Nilai.jpeg>)
 
 # List untuk menyimpan data mahasiswa
 mahasiswa = []
